@@ -1,0 +1,4 @@
+Hello World!
+This is a sample text file.
+It is used to compare file contents.
+File comparison program.
